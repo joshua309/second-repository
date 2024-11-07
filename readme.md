@@ -59,5 +59,3 @@ Project Boards: You will visualize and manage tasks on Kanban boards.
 Merge Conflicts: Be careful resolving conflicts.
 Clear Commit Messages: Your commit messages must be short and explanatory.
 Manage Growth by Regular Commits: Commit frequently in order to avoid great big messy commits. Apply Effective Branching: Employ the branching for isolating the work. Stay updated with the advancements: Keep up with the latest features and best practices of Git. Collaborate Effectively: Communicate well with other developers and respect them.
-# second-repository
-# second-repository
